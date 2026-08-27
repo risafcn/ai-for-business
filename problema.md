@@ -47,3 +47,13 @@ Como ainda não tenho acesso a um paciente real (ver "Como eu tenho acesso"), o 
 Esta semana: publicar uma pergunta em 2 comunidades online de usuários de Mounjaro/Wegovy/Ozempic (grupos de Facebook, subreddits como r/Ozempic, ou fóruns de pacientes) perguntando como decidem se um efeito colateral é "normal" e o que fazem hoje entre consultas.
 
 Critério de sucesso: pelo menos 5 respostas que confirmem o padrão descrito (pesquisa no Google/redes sociais, incerteza sobre quando procurar o médico, falta de histórico organizado).
+
+## Perguntas de um leitor cético (v3)
+**1. Sem acesso a um paciente real ainda, como você sabe que o problema é exatamente esse, e não outra coisa (ex: medo de efeito colateral grave, não falta de acompanhamento)?**
+Não sei com certeza ainda. É uma hipótese baseada em relatos públicos e no crescimento do uso dessas medicações. É exatamente o que o primeiro experimento (comunidades online) serve para confirmar ou derrubar antes de construir qualquer coisa.
+
+**2. Como o produto evita ser interpretado como um serviço médico, já que fala sobre sintomas e diz quando "procurar o médico"?**
+O produto nunca vai dizer se o sintoma é perigoso ou normal, nem sugerir mudança de dose — só organiza informação e sinaliza "continue monitorando" ou "fale com seu médico" com base em regras simples de intensidade/duração, não em diagnóstico. Ainda preciso validar essas regras com um profissional de saúde antes de qualquer versão real em uso.
+
+**3. Por que alguém pagaria por isso (B2C) em vez de simplesmente perguntar de graça ao médico ou pesquisar no Google?**
+Porque o problema não é falta de informação, é falta de organização e de resposta rápida entre consultas — o Google dá informação genérica e contraditória, e o médico não está disponível na hora. Ainda não testei se as pessoas pagariam por isso; é uma pergunta em aberto que quero validar no primeiro experimento e nas próximas conversas com usuários reais.
