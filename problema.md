@@ -24,3 +24,26 @@ Até validar isso, a "Maria" usada acima é uma persona de trabalho, construída
 
 ## Por que eu escolhi
 Escolhi esse problema porque percebi que o uso das canetas emagrecedoras aumentou muito e existe uma dificuldade prática durante o tratamento: entre uma consulta e outra, o paciente frequentemente fica sozinho para lidar com os efeitos colaterais. É um problema recorrente, fácil de observar e que permite testar uma solução com usuários reais assim que eu conseguir acesso a eles.
+
+## O resultado que eu quero
+Reduzir para menos de 5 minutos o tempo entre o usuário registrar um sintoma e receber uma orientação inicial sobre o próximo passo (monitorar, ajustar algo simples, ou procurar o médico).
+
+Manter 100% do histórico de sintomas, doses e evolução organizado e pronto para ser mostrado ao profissional de saúde na consulta seguinte.
+
+Prazo: ter uma primeira versão testável (mesmo que manual, tipo formulário) até outubro, com essas métricas medidas num piloto pequeno.
+
+## O plano antes do prompt
+**Observar:** quais sintomas os usuários de GLP-1 mais relatam, em que dia do ciclo de aplicação eles aparecem, e como essas pessoas hoje decidem se "esperam" ou "procuram ajuda".
+
+**Decidir:** quais sintomas/intensidades geram cada uma das três orientações possíveis — "continue monitorando", "ajuste algo simples" ou "fale com seu médico" — sempre sem dar diagnóstico.
+
+**Executar sozinho (o produto/IA):** registrar dose, sintoma, intensidade e contexto (alimentação, tempo desde a aplicação); organizar o histórico; identificar padrões ao longo das semanas; gerar o resumo estruturado para a consulta.
+
+**O que fica comigo/com o médico:** qualquer decisão clínica — mudar dose, diagnosticar a causa do sintoma, decidir suspender o tratamento. O produto nunca decide isso.
+
+## Primeiro experimento
+Como ainda não tenho acesso a um paciente real (ver "Como eu tenho acesso"), o primeiro experimento não é técnico: é validar se a dor é real e do jeito que estou descrevendo.
+
+Esta semana: publicar uma pergunta em 2 comunidades online de usuários de Mounjaro/Wegovy/Ozempic (grupos de Facebook, subreddits como r/Ozempic, ou fóruns de pacientes) perguntando como decidem se um efeito colateral é "normal" e o que fazem hoje entre consultas.
+
+Critério de sucesso: pelo menos 5 respostas que confirmem o padrão descrito (pesquisa no Google/redes sociais, incerteza sobre quando procurar o médico, falta de histórico organizado).
