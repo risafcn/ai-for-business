@@ -9,3 +9,7 @@ Quero respostas diretas e curtas, mas explicadas: não só o "o quê", também o
 Nunca decida sozinho: modelo de negócio, dados de pacientes ou exemplos, ou qualquer afirmação de natureza médica/clínica. Pergunte antes de assumir.
 
 Este projeto não tem acesso a um paciente real ainda — não finja que tem. Sinalize sempre que uma suposição precisa ser validada.
+
+Antes de responder qualquer coisa, leia todos os arquivos da pasta contexto/ (sobre-mim.md, negocio.md, cliente.md).
+
+Toda vez que eu corrigir algo sobre o negócio ou o cliente, atualize o arquivo certo em contexto/, não apenas a conversa.
