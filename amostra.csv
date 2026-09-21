@@ -1,0 +1,20 @@
+data,hora,participante,medicamento,dose_mg,dias_desde_aplicacao,sintoma,intensidade,duracao_horas,orientacao_dada
+2026-09-07,20:10,USR-001,Mounjaro,5,0,nausea,4,3,continue monitorando
+2026-09-08,08:30,USR-001,Mounjaro,5,1,nausea,5,6,continue monitorando
+2026-09-08,21:00,USR-003,Ozempic,0.25,0,indisposicao,3,2,continue monitorando
+2026-09-09,07:45,USR-001,Mounjaro,5,2,constipacao,3,12,continue monitorando
+2026-09-09,19:30,USR-002,Wegovy,0.5,0,nausea,5,4,continue monitorando
+2026-09-10,09:00,USR-002,Wegovy,0.5,1,nausea,6,10,continue monitorando
+2026-09-10,22:15,USR-003,Ozempic,0.25,2,nausea,2,1,continue monitorando
+2026-09-11,08:00,USR-002,Wegovy,0.5,2,azia,4,5,continue monitorando
+2026-09-12,10:20,USR-001,Mounjaro,5,5,nenhum,0,0,continue monitorando
+2026-09-13,18:00,USR-002,Wegovy,0.5,4,fadiga,3,8,continue monitorando
+2026-09-14,20:30,USR-001,Mounjaro,5,0,nausea,5,4,continue monitorando
+2026-09-15,07:50,USR-001,Mounjaro,5,1,nausea,6,9,continue monitorando
+2026-09-16,21:00,USR-002,Wegovy,0.5,0,nausea,6,5,continue monitorando
+2026-09-17,08:10,USR-002,Wegovy,0.5,1,nausea,7,14,fale com seu medico agora
+2026-09-17,19:00,USR-001,Mounjaro,5,3,constipacao,4,30,fale com seu medico agora
+2026-09-18,09:30,USR-002,Wegovy,0.5,2,nausea,5,6,continue monitorando
+2026-09-19,11:00,USR-001,Mounjaro,5,5,nenhum,0,0,continue monitorando
+2026-09-20,08:40,USR-002,Wegovy,0.5,4,vomito,8,3,fale com seu medico agora
+2026-09-20,22:00,USR-001,Mounjaro,5,6,nenhum,0,0,continue monitorando
