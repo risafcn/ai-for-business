@@ -32,6 +32,18 @@ Manter 100% do histórico de sintomas, doses e evolução organizado e pronto pa
 
 Prazo: ter uma primeira versão testável (mesmo que manual, tipo formulário) até outubro, com essas métricas medidas num piloto pequeno.
 
+## Métrica
+
+Atualizado em 21/09/2026 (aula 13).
+
+As métricas do produto que eu listei acima (tempo até a orientação, % do histórico organizado, mensagens ao médico evitadas) ainda não dão para medir: não existe produto nem participante. O número que mais dói hoje é outro, e vem do "Primeiro experimento" logo abaixo: **eu ainda não conversei com nenhum usuário real dessas medicações.** Sem isso, o problema inteiro é hipótese. Então a métrica desta fase é a da validação, e as do produto ficam para quando o piloto existir (NP3).
+
+| Métrica | Alvo | Como confiro |
+|---|---|---|
+| Conversas com usuários reais de Mounjaro, Wegovy ou Ozempic sobre o que fazem com um efeito colateral entre consultas (número de pessoas diferentes) | De 0 para 5 até 31/10/2026 | Toda segunda, antes de rodar a rotina, conto as linhas de `dados/conversas.csv`, que eu mesmo atualizo a cada conversa (data, canal, identificador USR, se confirmou ou não o padrão descrito em "Como é hoje") |
+
+Por que 5 e por que 31/10: são o critério de sucesso e o prazo que eu mesmo escrevi no "Primeiro experimento" e em "O resultado que eu quero" (piloto até outubro). Conversa conta quando a pessoa usa uma das três medicações e responde à pergunta sobre o que faz entre consultas; comentário solto em post não conta. O ponto de partida é 0 porque, em 21/09, eu ainda não publiquei a pergunta nas comunidades.
+
 ## O plano antes do prompt
 **Observar:** quais sintomas os usuários de GLP-1 mais relatam, em que dia do ciclo de aplicação eles aparecem, e como essas pessoas hoje decidem se "esperam" ou "procuram ajuda".
 
