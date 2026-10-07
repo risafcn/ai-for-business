@@ -18,6 +18,7 @@ Estado em 21/09/2026: ainda não há paciente real nem produto. O dado de opera�
 | `prompts.md` | A biblioteca de prompts da NP1: a mensagem de orientação após o registro de sintoma, em 3 versões, e a regra de escalonamento que venceu |
 | `rotina.py` | O script que a rotina usa para aplicar as condições do `regras.md` sobre a fonte, com contagem exata de linhas lidas e ignoradas. Rodar: `python rotina.py . AAAA-MM-DD` |
 | `diario.md` | Diário de uso do Claude Code: o que pedi, o que veio, o que corrigi |
+| `agente/prompt.md` | O prompt de configuração do agente de vendas ISI, da TechLab: quem ele é, o que pode e o que não pode fazer, as ferramentas e as regras |
 | `contexto/` | Quem eu sou (`sobre-mim.md`), qual é o negócio (`negocio.md`), quem é o cliente (`cliente.md`) |
 | `dados/fonte.md` | A fonte canônica: de onde vem o dado, quem atualiza, quais campos importam e os 3 números com regra de cálculo |
 | `dados/amostra.csv` | A amostra de registros de sintoma do piloto. Inventada, declarada como inventada no `fonte.md`; é o que as regras leem |
